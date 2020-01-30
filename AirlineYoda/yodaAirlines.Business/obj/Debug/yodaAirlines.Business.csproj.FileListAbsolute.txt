@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.Business.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.Business.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.Business.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.DataAccess.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.DataAccess.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\obj\Debug\yodaAirlines.Business.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\obj\Debug\yodaAirlines.Business.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.Business\obj\Debug\yodaAirlines.Business.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.Business.exe.config
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.Business.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.Business.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.DataAccess.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\bin\Debug\yodaAirlines.DataAccess.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\obj\Debug\yodaAirlines.Business.csprojResolveAssemblyReference.cache
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\obj\Debug\yodaAirlines.Business.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.Business\obj\Debug\yodaAirlines.Business.pdb

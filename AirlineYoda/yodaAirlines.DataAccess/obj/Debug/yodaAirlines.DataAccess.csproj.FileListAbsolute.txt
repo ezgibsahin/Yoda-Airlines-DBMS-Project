@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.DataAccess\bin\Debug\yodaAirlines.DataAccess.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.DataAccess\bin\Debug\yodaAirlines.DataAccess.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.DataAccess\bin\Debug\yodaAirlines.DataAccess.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.DataAccess\obj\Debug\yodaAirlines.DataAccess.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.DataAccess\obj\Debug\yodaAirlines.DataAccess.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.DataAccess\obj\Debug\yodaAirlines.DataAccess.csprojResolveAssemblyReference.cache
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.DataAccess\bin\Debug\yodaAirlines.DataAccess.exe.config
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.DataAccess\obj\Debug\yodaAirlines.DataAccess.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.DataAccess\obj\Debug\yodaAirlines.DataAccess.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.DataAccess\bin\Debug\yodaAirlines.DataAccess.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.DataAccess\bin\Debug\yodaAirlines.DataAccess.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.DataAccess\obj\Debug\yodaAirlines.DataAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,166 @@
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\ApplicationInsights.config
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.WebUI.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.WebUI.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.WebUI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Antlr3.Runtime.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Optimization.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Providers.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\WebGrease.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.Web.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Optimization.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Antlr3.Runtime.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Providers.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\obj\Debug\yodaAirlines.WebUI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\obj\Debug\yodaAirlines.WebUI.dll
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\obj\Debug\yodaAirlines.WebUI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.Business.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.DataAccess.exe
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.Business.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.DataAccess.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\ApplicationInsights.config
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\csc.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\vbc.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\VBCSCompiler.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.WebUI.dll.config
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.WebUI.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.WebUI.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Antlr3.Runtime.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\AspNet.ScriptManager.bootstrap.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\AspNet.ScriptManager.jQuery.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.SqlServer.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.Web.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Google.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ScriptManager.WebForms.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Newtonsoft.Json.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Owin.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Optimization.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Providers.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\WebGrease.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.Business.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.DataAccess.exe
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.Business.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\yodaAirlines.DataAccess.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.Web.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Optimization.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Antlr3.Runtime.pdb
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Newtonsoft.Json.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\EntityFramework.SqlServer.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\System.Web.Providers.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Google.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\obj\Debug\yodaAirlines.WebUI.csprojResolveAssemblyReference.cache
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\obj\Debug\yodaAirlines.WebUI.dll
+F:\deu-18-19-guz\dbms\AirlineYoda\yodaAirlines.WebUI\obj\Debug\yodaAirlines.WebUI.pdb
